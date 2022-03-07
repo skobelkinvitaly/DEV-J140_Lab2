@@ -219,7 +219,6 @@ public class App extends Application {
         return s;
     }
 
-//    public String addPerson()
 
     public static void main(String[] args) {
         launch(args);
